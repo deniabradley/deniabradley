@@ -18,7 +18,7 @@ Aspiring Data Analyst | SQL • Python • Power BI • Tableau
 - Cleaned, analyzed, and visualized data using Pandas, Matplotlib, and Seaborn
 - Presented insights and investment recommendations based on model output
 - Tools: Python, Pandas, Matplotlib, Scikit-learn  
-[View Project »](github.com/yourusername/sales-forecasting-python)
+[View Project »](https://github.com/deniabradley/boston-housing-price-prediction)
 
 ### 📊 Fraud Detection Transaction Analysis
 - Cleaned and preprocessed financial data using Pandas
